@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Electrical and Computer Engineering at Technical University of Crete.
-- 🌱 &nbsp; Learning more about Full Stack Development.
+- 🌱 &nbsp; Learning more about Full Stack Development and Cloud Architecture.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
