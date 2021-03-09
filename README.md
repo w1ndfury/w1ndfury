@@ -31,7 +31,7 @@
 <br/>
 
 <a href="https://github.com/w1ndfury">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ndfury&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://w1ndfury.github.io/portfolio-project/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/panagiotispatsoglou/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:panagiotis.patsoglou@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://w1ndfury.github.io/portfolio-project/"></a>
+<a href="https://www.linkedin.com/in/panagiotispatsoglou/"></a>
+<a href="mailto:panagiotis.patsoglou@gmail.com"></a>
 </p>
