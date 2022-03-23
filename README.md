@@ -8,6 +8,6 @@
 
 <br/>
 
-<a href="https://github.com/w1ndfury">
+<!-- <a href="https://github.com/w1ndfury">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1ndfury&theme=buefy&layout=compact" />
-</a>
+</a> -->
