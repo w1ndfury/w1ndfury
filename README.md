@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Electrical and Computer Engineering at Technical University of Crete.
-- 🌱 &nbsp; Learning more about Full Stack Development, Cloud Architecture, Blockchain Technology and Dapp Development.
+- 🎓 &nbsp; Electrical and Computer Engineering at Technical University of Crete.
+- 🌱 &nbsp; Learning more about Full Stack Development
 
 <br/>
 
