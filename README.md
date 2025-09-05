@@ -13,7 +13,7 @@ Building performant, responsive, and accessible user interfaces that deliver sea
 🤔 &nbsp; Exploring new technologies and developing software solutions.
 
 - **Experience:** 4+ years in modern web development, focused on building maintainable and accessible applications.
-- **Specialties:** React, Next.js, modern web technologies, performance optimization.
+- **Specialties:** React, Next.js, Angular, Jest, modern web technologies, performance optimization.
 - **Location:** Based in Athens, Greece.
 
 ---
